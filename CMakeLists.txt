@@ -8,3 +8,5 @@ include_directories(PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 enable_testing()
 add_subdirectory(tests)
+
+to test
